@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutoExpandImage/AutoExpandImage.iml" filepath="$PROJECT_DIR$/AutoExpandImage/AutoExpandImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoExpandImageView.iml" filepath="$PROJECT_DIR$/AutoExpandImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simple/Simple.iml" filepath="$PROJECT_DIR$/Simple/Simple.iml" />
+    </modules>
+  </component>
+</project>
